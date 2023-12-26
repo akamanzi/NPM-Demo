@@ -3,6 +3,7 @@
 	"author": "Arnold Kamanzi",
 	"description": "A project to practice the basics of the npm's package.json file",
 	"keywords": ["freecodecamp", "npm", "package.json"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
